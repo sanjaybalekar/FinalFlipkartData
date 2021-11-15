@@ -12,3 +12,4 @@ The Dataset is having following features <br />
   Ratings               -> Average Ratings Given to the Products. <br />
   Total Ratings Given   -> No. of People Rated  the Product. <br />
  
+# Graphical representation of some important features is done for further analysis
